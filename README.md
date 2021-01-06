@@ -1,4 +1,4 @@
-# Whitepaper
+## Whitepaper
 OkuruToken (XOT) Whitepaper
 
 
@@ -10,5 +10,5 @@ Link: https://05271370-8343-4760-9982-c83a9257592b.usrfiles.com/ugd/052713_10169
 
 
 # Okuru XOT Whitepaper (English translated.)
-
-Link: https://05271370-8343-4760-9982-c83a9257592b.usrfiles.com/ugd/052713_a85ce278f84749c4b2d324902ebbf764.pdf
+Please note that the English translation may contain grammatical errors.
+Link: https://05271370-8343-4760-9982-c83a9257592b.usrfiles.com/ugd/052713_b85324875ca84f138bda8bbb56d4956c.pdf
