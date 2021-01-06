@@ -1,4 +1,4 @@
-`<https://static.wixstatic.com/media/052713_a079c5d808544b16a747a0e219a8ce24~mv2.png>`
+
 
 
 # Whitepaper
