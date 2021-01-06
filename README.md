@@ -1,0 +1,2 @@
+# Whitepaper
+OkuruToken (XOT) Whitepaper
