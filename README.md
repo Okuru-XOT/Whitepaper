@@ -2,7 +2,7 @@
 
 
 # Whitepaper
-OkuruToken (XOT) Whitepaper
+OkuruToken (XOT) Whitepaper (⚠️OUTDATED⚠️)
 
 
 
